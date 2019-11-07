@@ -19,4 +19,4 @@ C:>python plasma.py
 Or run the demo:
 C:>demo.exe
 
-![alt text](https://github.com/yoyoberenguer/Plasma-Effect/blob/master/sc1.png) 
+![alt text](https://github.com/yoyoberenguer/Plasma-Effect/blob/master/sc2.png) 
