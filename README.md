@@ -10,3 +10,9 @@ Requirement:
 
 To compile the cython code:
 C:>python setup_plasma.py build_ext --inplace
+
+To run the program: 
+C:>python plasma.py
+
+Or run the demo:
+C:>demo.exe
